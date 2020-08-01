@@ -1,0 +1,10 @@
+newmtl plain
+Kd 0.8 0.8 0.8
+
+newmtl metal
+Kd 0.6 0.6 0.6
+map_Kd grey_metal.jpg
+
+newmtl cream
+Kd 0.74816 0.738093 0.673344
+map_Kd cream_blades.jpg

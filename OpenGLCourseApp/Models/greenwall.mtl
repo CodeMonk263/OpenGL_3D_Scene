@@ -1,0 +1,5 @@
+newmtl material
+
+Kd 0.8 0.8 0.8
+
+map_Kd greenwall.jpg

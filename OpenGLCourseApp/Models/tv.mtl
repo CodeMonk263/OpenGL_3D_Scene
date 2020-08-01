@@ -1,0 +1,30 @@
+newmtl screen
+Kd 0.5 0.5 0.5
+map_Kd screen_art.jpg
+
+newmtl body
+Kd 0.5 0.5 0.5
+map_Kd black.jpg
+
+newmtl logo
+Kd 0.5 0.5 0.5
+map_Kd metal.jpg
+
+newmtl grey_material
+Kd 0.5 0.5 0.5
+map_Kd grey_metal.jpg
+
+newmtl shiny_texture
+Kd 0.5 0.5 0.5
+map_Kd texture5.jpg
+
+newmtl rubber
+Kd 0.5 0.5 0.5
+map_Kd grey_metal.jpg
+
+newmtl leg
+Kd 0.5 0.5 0.5
+map_Kd texture2.jpg
+
+
+

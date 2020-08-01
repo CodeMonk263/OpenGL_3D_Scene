@@ -1,0 +1,6 @@
+# 3ds Max Wavefront OBJ Exporter v0.97b - (c)2007 guruware
+# File Created: 31.07.2018 10:52:10
+
+newmtl vase
+Kd 0.5 0.5 0.5
+map_Kd book2.jpg

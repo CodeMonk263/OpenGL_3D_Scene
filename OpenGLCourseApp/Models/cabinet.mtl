@@ -1,0 +1,39 @@
+newmtl bottle_black
+Kd 0.5 0.5 0.5
+map_Kd black.jpg
+
+newmtl vase_white
+Kd 0.5 0.5 0.5
+map_Kd structure.jpg
+
+newmtl book1
+Kd 0.5 0.5 0.5
+map_Kd book1.jpg
+
+newmtl book2
+Kd 0.5 0.5 0.5
+map_Kd book2.jpg
+
+newmtl body_cabinet
+Kd 0.5 0.5 0.5
+map_Kd black.jpg
+
+newmtl door
+Kd 0.5 0.5 0.5
+map_Kd door.jpg
+
+newmtl case
+Kd 0.5 0.5 0.5
+map_Kd black.jpg
+
+newmtl back_side
+Kd 0.5 0.5 0.5
+map_Kd black.jpg
+
+mewmtl legs
+Kd 0.5 0.5 0.5
+map_Kd black.jpg
+
+newmtl knobs
+Kd 0.5 0.5 0.5
+map_Kd knobs.jpg

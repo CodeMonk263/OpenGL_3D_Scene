@@ -1,0 +1,15 @@
+newmtl structure
+Kd 0.5 0.5 0.5
+map_Kd structure.jpg
+
+newmtl bedsheet
+Kd 0.5 0.5 0.5
+map_Kd bedsheet.jpg
+
+mewmtl pillow
+Kd 0.5 0.5 0.5
+map_Kd pillow.jpg
+
+mewmtl mattress
+Kd 0.5 0.5 0.5
+map_Kd mattress.jpg
